@@ -1,6 +1,6 @@
 # MY CERTIFICATE
-## [«Databases. Basics»	](https://gb.ru/certificates/1554241.en )
-* #### [Курсы «Базы данных. Основы»](https://gb.ru/certificates/1554241.ru )
+## [Completed the course «Databases. Basics»	](https://gb.ru/certificates/1554241.en )
+* #### [Окончил курс «Базы данных. Основы»](https://gb.ru/certificates/1554241.ru )
 * Date: 10.12.2021
 * № 1554241
 
