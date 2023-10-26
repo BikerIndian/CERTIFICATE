@@ -3,6 +3,8 @@
 * #### [Курсы «Базы данных. Основы»](https://gb.ru/certificates/1554241.ru )
 * Date: 10.12.2021
 * № 1554241
+
+
 ![1554241](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/1554241.en.png)
 
 ## [Completed the course «English for IT specialists»](https://gb.ru/certificates/1538468.en )
@@ -33,12 +35,16 @@
 * #### [Окончил курс «Покрытие тестами Android приложений»](https://gb.ru/certificates/1301018.ru )
 * Date: 25.06.2021
 * № 1301018
+
+
    ![1301018](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/1301018.en.png)
 
 ## [Completed the course «Professional Android Application Development»](https://gb.ru/certificates/1244270.en )
 * #### [Окончил курс «Профессиональная разработка Android-приложений»](https://gb.ru/certificates/1244270.ru )
 * Date: 9.05.2021
 * № 1244270
+
+
    ![1244270](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/1244270.en.png)
 
 
@@ -153,29 +159,29 @@
 
   ![276154](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/276154.en.png)
 
-## [«Linux. First level»](https://gb.ru/certificates/0569466.en )
-* #### [«Linux. Начальный уровень»](https://gb.ru/certificates/0569466.ru )
+## [«Linux. First level»](https://gb.ru/certificates/569466.en )
+* #### [«Linux. Начальный уровень»](https://gb.ru/certificates/569466.ru )
 * Date: 1.03.2019
 * № 0569466
 
 
-  ![0569466](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/0569466.en.png)						
+  ![0569466](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/569466.en.png)						
 
-## [«Linux. Intermediate»](https://gb.ru/certificates/0573982.en )
-* #### [«Linux. Средний уровень»](https://gb.ru/certificates/0573982.ru )
+## [«Linux. Intermediate»](https://gb.ru/certificates/573982.en )
+* #### [«Linux. Средний уровень»](https://gb.ru/certificates/573982.ru )
 * Date: 14.03.2019
 * № 0573982
 
 
-  ![0573982](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/0573982.en.png)
+  ![0573982](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/573982.en.png)
 
-## [«Java. Intermediate»](https://gb.ru/certificates/0582424.en )
-* #### [«Java. Средний уровень»](https://gb.ru/certificates/0582424.ru )
+## [«Java. Intermediate»](https://gb.ru/certificates/582424.en )
+* #### [«Java. Средний уровень»](https://gb.ru/certificates/582424.ru )
 * Date: 5.04.2019
 * № 0582424
 
 
-  ![0582424](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/0582424.en.png)
+  ![0582424](https://github.com/BikerIndian/CERTIFICATE/blob/main/sert/gb/en/582424.en.png)
 
 ## [«HTML&CSS. Beginner»](https://gb.ru/certificates/729969.en )
 * #### [«HTML&CSS. Начальный уровень»](https://gb.ru/certificates/729969.ru )
